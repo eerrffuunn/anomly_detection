@@ -1,9 +1,4 @@
-# Script usage
-
-All files contain a bunch of all caps constants at the top of the script. Change these in order to for example enable verbose mode, logging, skipping sections, changing the architecture, or others.
-
-There are three stages, preprocessing, training/testing and translating. The following sections describe which files belong what stage. 
-
+Detecting anomalies with recurrent neural networks
 ## Preprocessing
 
 The file ```dataset_generator.py``` is used for preprocessing. Usage example:
